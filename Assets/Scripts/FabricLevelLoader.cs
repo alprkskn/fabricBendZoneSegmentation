@@ -9,6 +9,7 @@ using Random = UnityEngine.Random;
 public class FabricLevelLoader : MonoBehaviour
 {
 	public string LevelDir;
+	public Material _dummyMaterial;
 
 	private int[,,] _world;
 	private Vector3[] _bendPoints;
@@ -27,10 +28,9 @@ public class FabricLevelLoader : MonoBehaviour
 		var node = doc.SelectSingleNode("/level/tiles");
 
 		List<Vector3> newBendPoints = new List<Vector3>();
-		_levelBounds = new Bounds();
 
 		List<int> blockComponents = new List<int>();
-
+		bool firstNode = true;
 		foreach(XmlNode nd in node.ChildNodes)
 		{
 			if (nd == null) continue;
@@ -46,7 +46,15 @@ public class FabricLevelLoader : MonoBehaviour
 										positionComponents[1],
 										positionComponents[2]);
 
-			_levelBounds.Encapsulate(position);
+			if (firstNode)
+			{
+				_levelBounds = new Bounds(position, Vector3.zero);
+				firstNode = false;
+			}
+			else
+			{
+				_levelBounds.Encapsulate(position);
+			}
 
 			if (type == "BendTile")
 			{
@@ -164,7 +172,7 @@ public class FabricLevelLoader : MonoBehaviour
 
 			cursor += Vector3.one;
 			var bound = new Bounds();
-			bound.SetMinMax(min - offset, cursor - offset);
+			bound.SetMinMax(min - offset, cursor - offset + Vector3.one);
 			bounds.Add(bound);
 
 
@@ -188,6 +196,26 @@ public class FabricLevelLoader : MonoBehaviour
 		{
 			loadLevel(LevelDir);
 			_segmentationBounds = levelSegmentation(_bendPoints, _levelBounds);
+
+			foreach(var bnd in _segmentationBounds)
+			{
+				var normalizedBounds = bnd;
+				normalizedBounds.center -= normalizedBounds.min;
+				var meshes = MeshUtils.CreateSegmentMesh(_world, normalizedBounds, Vector3.one);
+
+				foreach (var m in meshes)
+				{
+					var go = new GameObject("segment");
+					var mf = go.AddComponent<MeshFilter>();
+					var mr = go.AddComponent<MeshRenderer>();
+
+					go.transform.position = bnd.min;
+
+					mf.sharedMesh = m;
+					mr.sharedMaterial = _dummyMaterial;
+				}
+
+			}
 		}
 	}
 
