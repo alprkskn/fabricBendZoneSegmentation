@@ -31,6 +31,7 @@ public class FabricLevelLoader : MonoBehaviour
 
 		List<int> blockComponents = new List<int>();
 		bool firstNode = true;
+		var go = (new GameObject("actualLevel")).transform;
 		foreach(XmlNode nd in node.ChildNodes)
 		{
 			if (nd == null) continue;
@@ -45,6 +46,15 @@ public class FabricLevelLoader : MonoBehaviour
 			var position = new Vector3(positionComponents[0],
 										positionComponents[1],
 										positionComponents[2]);
+
+			var cube = GameObject.CreatePrimitive(PrimitiveType.Cube);
+			cube.transform.position = position;
+			cube.transform.SetParent(go);
+
+			if(type == "BendTile")
+			{
+				cube.GetComponent<MeshRenderer>().material.color = Color.red;
+			}
 
 			if (firstNode)
 			{
@@ -69,6 +79,7 @@ public class FabricLevelLoader : MonoBehaviour
 		var offsetY = -(int)_levelBounds.min.y;
 		var offsetZ = -(int)_levelBounds.min.z;
 
+
 		for(int i = 0; i < blockComponents.Count; i += 3)
 		{
 			try
@@ -84,6 +95,8 @@ public class FabricLevelLoader : MonoBehaviour
 										blockComponents[i+0] + offsetX, blockComponents[i+1] + offsetY, blockComponents[i+2] + offsetZ);
 			}
 		}
+
+		go.gameObject.SetActive(false);
 
 		_bendPoints = newBendPoints.ToArray();
 		Debug.LogFormat("Found {0} bendTiles.", newBendPoints.Count);
@@ -172,7 +185,7 @@ public class FabricLevelLoader : MonoBehaviour
 
 			cursor += Vector3.one;
 			var bound = new Bounds();
-			bound.SetMinMax(min - offset, cursor - offset + Vector3.one);
+			bound.SetMinMax(min - offset, cursor - offset /*+ Vector3.one*/);
 			bounds.Add(bound);
 
 
@@ -200,7 +213,7 @@ public class FabricLevelLoader : MonoBehaviour
 			foreach(var bnd in _segmentationBounds)
 			{
 				var normalizedBounds = bnd;
-				normalizedBounds.center -= normalizedBounds.min;
+				normalizedBounds.center -= _levelBounds.min;
 				var meshes = MeshUtils.CreateSegmentMesh(_world, normalizedBounds, Vector3.one);
 
 				foreach (var m in meshes)
@@ -209,7 +222,7 @@ public class FabricLevelLoader : MonoBehaviour
 					var mf = go.AddComponent<MeshFilter>();
 					var mr = go.AddComponent<MeshRenderer>();
 
-					go.transform.position = bnd.min;
+					go.transform.position = bnd.center;
 
 					mf.sharedMesh = m;
 					mr.sharedMaterial = _dummyMaterial;
@@ -223,6 +236,9 @@ public class FabricLevelLoader : MonoBehaviour
 	{
 		if(_segmentationBounds != null)
 		{
+			Gizmos.color = Color.magenta;
+			Gizmos.DrawWireCube(_levelBounds.center, _levelBounds.size);
+
 			Random.InitState(5);
 
 			foreach (var b in _segmentationBounds)

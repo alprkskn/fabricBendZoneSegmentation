@@ -24,18 +24,18 @@ public static class MeshUtils
 
 		var vertexOffset = - segmentBounds.extents;
 
-		for(int i = (int)min.x; i < (int)max.x; i++)
+		for(int i = (int)min.x; i <= (int)max.x; i++)
 		{
-			for(int j = (int)min.y; j < (int)max.y; j++)
+			for(int j = (int)min.y; j <= (int)max.y; j++)
 			{
-				for(int k = (int)min.z; k < (int)max.z; k++)
+				for(int k = (int)min.z; k <= (int)max.z; k++)
 				{
 					if (worldMatrix[i, j, k] == 0) continue;
 
-					Vector3 center = new Vector3(voxelSize.x * (0.5f + i), voxelSize.y * (0.5f + j), voxelSize.z * (0.5f + k));
+					Vector3 center = new Vector3(voxelSize.x * (0.5f + i - min.x) + vertexOffset.x, voxelSize.y * (0.5f + j - min.y) + vertexOffset.y, voxelSize.z * (0.5f + k - min.z) + vertexOffset.z);
 
 					// Check up, down, right, left, forward, back of the cube. And add faces if necessary.
-					if((j + 1) >= max.y || worldMatrix[i, j + 1, k] == 0)
+					if((j + 1) > max.y || worldMatrix[i, j + 1, k] == 0)
 					{
 						// Use Add faces method, send all needed arguments. UP
 						addFace(center, voxelSize, Vector3.up, Vector3.right, ref vertices, ref normals, ref uvs, ref tris, ref meshList);
@@ -45,7 +45,7 @@ public static class MeshUtils
 						// Use Add faces method, send all needed arguments. DOWN
 						addFace(center, voxelSize, Vector3.down, Vector3.left, ref vertices, ref normals, ref uvs, ref tris, ref meshList);
 					}
-					if((i + 1) >= max.x || worldMatrix[i + 1, j, k] == 0)
+					if((i + 1) > max.x || worldMatrix[i + 1, j, k] == 0)
 					{
 						// Use Add faces method, send all needed arguments. RIGHT
 						addFace(center, voxelSize, Vector3.right, Vector3.down, ref vertices, ref normals, ref uvs, ref tris, ref meshList);
@@ -55,7 +55,7 @@ public static class MeshUtils
 						// Use Add faces method, send all needed arguments. LEFT
 						addFace(center, voxelSize, Vector3.left, Vector3.up, ref vertices, ref normals, ref uvs, ref tris, ref meshList);
 					}
-					if((k + 1) >= max.z || worldMatrix[i, j, k + 1] == 0)
+					if((k + 1) > max.z || worldMatrix[i, j, k + 1] == 0)
 					{
 						// Use Add faces method, send all needed arguments. FORWARD
 						addFace(center, voxelSize, Vector3.forward, Vector3.down, ref vertices, ref normals, ref uvs, ref tris, ref meshList);
@@ -84,6 +84,11 @@ public static class MeshUtils
 								ref List<Vector3> vertices, ref List<Vector3> normals, 
 								ref List<Vector2> uvs, ref List<int> tris, ref List<Mesh> meshList)
 	{
+
+		//var go = GameObject.CreatePrimitive(PrimitiveType.Sphere);
+		//go.transform.localScale = Vector3.one * 0.2f;
+		//go.transform.position = center + up * size.x;
+
 		// Populate the lists with new faces. If necessary divide and add the added mesh to the mesh list.
 		// If mesh max vertexCount is reached. Create a mesh and clear the lists.
 		if(vertices.Count + 4 >= 65000)
