@@ -1,0 +1,2770 @@
+<level>
+  <tiles>
+    <tile type="GreyTile" id="1407" position="-13 0 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1408" position="-13 0 13" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1409" position="-13 0 14" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1410" position="-12 0 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1411" position="-12 0 13" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1412" position="-12 0 14" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1413" position="-11 0 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1414" position="-11 0 13" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1415" position="-11 0 14" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1416" position="14 0 14" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1417" position="12 1 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1418" position="13 1 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1419" position="14 1 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1420" position="13 2 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1421" position="15 0 14" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1422" position="-12 0 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1423" position="15 1 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1424" position="15 2 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1425" position="-13 1 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1426" position="-12 1 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1427" position="-11 0 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1428" position="-10 0 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1429" position="13 0 14" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1430" position="15 0 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="58" position="12 0 14" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1431" position="-12 0 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1432" position="11 0 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="83" position="12 0 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1433" position="-13 0 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="89" position="-12 0 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1434" position="-12 0 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1435" position="-13 0 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1436" position="-12 0 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1437" position="-13 0 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1438" position="13 0 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1439" position="13 0 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1440" position="12 0 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="104" position="14 0 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="105" position="14 0 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="106" position="15 0 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="107" position="12 0 20" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="108" position="13 0 20" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="109" position="-12 0 20" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1441" position="-11 0 20" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="114" position="-13 0 20" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="119" position="-15 0 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1442" position="-9 0 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="128" position="-10 0 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="129" position="11 1 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="130" position="10 1 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1443" position="9 1 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="132" position="8 1 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1444" position="-8 1 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1445" position="-9 1 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1446" position="-10 1 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="146" position="14 2 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="147" position="15 3 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="148" position="14 3 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="149" position="13 3 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="159" position="15 4 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="160" position="14 4 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="169" position="15 5 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="170" position="14 5 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="185" position="16 5 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="186" position="16 3 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="187" position="16 1 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="188" position="16 2 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="215" position="17 3 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="217" position="18 3 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="226" position="16 0 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="230" position="15 0 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="231" position="15 0 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="232" position="16 0 14" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="233" position="16 0 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="234" position="16 0 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="235" position="16 0 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="236" position="15 0 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="237" position="17 0 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="238" position="17 0 14" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="239" position="17 0 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="240" position="17 0 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="241" position="16 0 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="242" position="17 0 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="243" position="17 0 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="264" position="-11 1 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="EndTile" id="273" position="-19 0 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="LightTile" id="274" position="7 1 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="QuadTile" id="285" position="-18 0 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="QuadTile" id="286" position="-18 0 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="QuadTile" id="287" position="-19 0 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="QuadTile" id="288" position="-19 0 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="QuadTile" id="289" position="-20 0 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="QuadTile" id="290" position="-20 0 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="QuadTile" id="291" position="-20 0 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="QuadTile" id="292" position="-18 0 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="QuadTile" id="294" position="-18 0 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="QuadTile" id="297" position="-18 1 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="QuadTile" id="298" position="-19 1 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="QuadTile" id="299" position="-20 1 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="QuadTile" id="300" position="-19 2 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="338" position="20 4 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="344" position="20 5 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="QuadTile" id="348" position="-18 0 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="QuadTile" id="349" position="-19 0 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="QuadTile" id="350" position="-20 0 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="QuadTile" id="351" position="-20 1 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="QuadTile" id="352" position="-19 1 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="QuadTile" id="353" position="-18 1 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="QuadTile" id="354" position="-19 2 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="365" position="10 -1 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="366" position="10 -1 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="367" position="10 -1 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="368" position="10 -1 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="369" position="10 -2 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="370" position="10 -2 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="371" position="10 -2 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="372" position="10 -2 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="393" position="10 -2 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="396" position="10 -1 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="397" position="10 0 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="401" position="10 0 20" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="409" position="-10 0 20" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="QuadTile" id="425" position="-21 0 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="QuadTile" id="428" position="-21 1 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="QuadTile" id="429" position="-21 1 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="QuadTile" id="430" position="-21 1 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="QuadTile" id="431" position="-21 1 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="QuadTile" id="432" position="-21 1 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="QuadTile" id="433" position="-21 2 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="QuadTile" id="434" position="-21 2 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="QuadTile" id="435" position="-21 2 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="440" position="16 0 20" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="441" position="15 0 20" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="442" position="14 0 20" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="449" position="16 1 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="450" position="15 1 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="451" position="14 1 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="452" position="13 1 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="455" position="15 2 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="457" position="13 2 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="458" position="12 2 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="461" position="15 3 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="463" position="13 3 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="464" position="12 3 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="465" position="17 4 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="466" position="16 4 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="467" position="15 4 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="468" position="14 4 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="469" position="13 4 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="470" position="12 4 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="471" position="11 4 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="487" position="20 4 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="488" position="19 4 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="489" position="18 4 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="491" position="14 5 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="492" position="15 5 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="493" position="16 5 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="494" position="20 5 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="495" position="19 5 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="822" position="14 0 13" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="823" position="15 0 13" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="824" position="16 0 13" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="826" position="17 4 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="827" position="18 4 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="828" position="19 4 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="878" position="18 0 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="879" position="18 0 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="880" position="18 0 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="922" position="18 0 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="946" position="13 4 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="947" position="13 5 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="948" position="11 2 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="949" position="10 2 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="950" position="9 2 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="951" position="8 2 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="952" position="7 2 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="953" position="-8 2 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="954" position="-9 2 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="955" position="-10 2 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="956" position="-11 2 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="958" position="12 3 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="959" position="11 3 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="960" position="10 3 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="961" position="9 3 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="962" position="8 3 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="963" position="7 3 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="964" position="6 3 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="965" position="-9 3 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="966" position="-10 3 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="967" position="12 4 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="968" position="11 4 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="969" position="10 4 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="970" position="9 4 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="971" position="8 4 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="972" position="7 4 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="973" position="6 4 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="974" position="11 5 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="975" position="10 5 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="976" position="9 5 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="977" position="8 5 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="978" position="7 5 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="979" position="-13 2 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="980" position="-11 3 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="981" position="-12 3 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="982" position="-13 3 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="983" position="-11 4 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="984" position="-9 4 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="986" position="10 6 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="987" position="9 6 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="990" position="6 5 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="991" position="9 6 13" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="992" position="8 6 13" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="993" position="7 6 13" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="995" position="6 6 13" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="996" position="15 6 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="997" position="14 6 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="998" position="8 6 14" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="999" position="7 6 14" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1002" position="8 6 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1003" position="13 0 13" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1004" position="12 0 13" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1005" position="11 0 13" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1006" position="10 0 13" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1008" position="11 0 14" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1009" position="10 0 14" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1022" position="17 5 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1024" position="18 5 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1025" position="17 5 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1027" position="18 5 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1028" position="11 4 20" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1029" position="12 4 20" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1030" position="12 5 20" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1031" position="11 5 20" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1032" position="12 5 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1033" position="11 5 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1034" position="12 5 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1035" position="11 5 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1036" position="11 6 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1037" position="12 6 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1039" position="9 6 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1040" position="10 6 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1041" position="11 6 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1042" position="12 6 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1044" position="12 6 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1045" position="11 6 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1046" position="11 6 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1047" position="12 6 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1048" position="8 5 13" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1049" position="7 5 13" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1050" position="15 6 13" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1051" position="14 6 13" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1053" position="14 6 14" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1054" position="13 6 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1055" position="14 6 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1056" position="16 3 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1057" position="16 2 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1447" position="13 6 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1448" position="18 0 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1449" position="11 3 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1450" position="11 2 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1451" position="-14 0 20" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1452" position="-15 0 20" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1453" position="-16 0 20" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1454" position="-16 0 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1455" position="-16 0 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1456" position="-16 0 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1457" position="-16 0 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1458" position="-14 0 13" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1459" position="-15 0 13" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1460" position="-14 0 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1461" position="-14 1 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="54" position="7 6 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="55" position="6 6 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="56" position="-9 6 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="57" position="-10 6 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="62" position="-16 0 14" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="63" position="-13 0 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="64" position="-13 0 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="65" position="-14 0 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="66" position="-14 0 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="67" position="-14 0 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="68" position="-15 0 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="69" position="-15 0 14" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="70" position="-15 0 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="71" position="-14 0 14" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="74" position="-11 4 13" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="81" position="-14 0 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="82" position="-14 0 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="86" position="-12 4 13" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="88" position="-13 4 14" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="90" position="-9 6 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="93" position="7 6 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="94" position="7 5 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="99" position="7 5 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="100" position="7 5 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="101" position="9 6 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="102" position="-9 6 14" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="103" position="-9 6 13" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="QuadTile" id="111" position="-11 0 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="QuadTile" id="112" position="11 0 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="QuadTile" id="113" position="11 0 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="115" position="11 0 20" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="127" position="-10 2 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="131" position="-10 3 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="133" position="8 4 24" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="134" position="7 4 24" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="135" position="6 4 24" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="136" position="9 6 14" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1462" position="-15 0 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1463" position="-16 0 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1464" position="-15 0 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1465" position="-17 0 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1466" position="-17 0 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1468" position="-12 0 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1469" position="-13 0 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1470" position="-14 0 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1471" position="-15 0 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1472" position="-11 1 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1473" position="-12 1 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1474" position="-13 1 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1475" position="-14 1 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1476" position="-12 2 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1477" position="-13 2 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1478" position="-14 2 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1479" position="-11 3 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1480" position="-12 3 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1481" position="-13 3 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1482" position="-14 3 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1483" position="-9 4 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1484" position="-10 4 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1485" position="-11 4 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1486" position="-12 4 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1487" position="-13 4 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1488" position="-14 4 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1489" position="-15 4 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1490" position="-12 5 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1491" position="-13 5 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1492" position="-13 6 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1493" position="-12 6 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="35" position="-12 6 20" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="36" position="-13 6 20" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="37" position="-12 6 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="38" position="-13 6 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="39" position="-12 6 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="40" position="-13 6 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1494" position="-13 6 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1495" position="-12 6 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1496" position="-13 6 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1497" position="-13 6 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1499" position="-13 5 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="LightTile" id="1500" position="-13 4 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="QuadTile" id="1501" position="-21 3 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="QuadTile" id="1502" position="-21 4 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="LightTile" id="1503" position="-20 4 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1504" position="11 2 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1505" position="11 2 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1506" position="11 3 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1507" position="11 3 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1508" position="7 4 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1509" position="7 4 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1510" position="7 4 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1511" position="-10 3 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1512" position="-10 2 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1513" position="10 3 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1514" position="10 2 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="LightTile" id="1515" position="7 3 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1516" position="11 1 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1517" position="-9 2 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1518" position="9 3 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="4" position="8 3 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="5" position="7 3 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="6" position="6 3 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="7" position="-9 3 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="8" position="9 2 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="9" position="6 2 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="10" position="7 2 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="11" position="8 2 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="12" position="9 1 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1519" position="-9 1 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1520" position="6 1 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="15" position="7 1 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="16" position="8 1 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="17" position="11 0 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="18" position="9 0 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1521" position="10 0 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1522" position="-9 0 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1523" position="6 0 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1524" position="7 0 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1525" position="8 0 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="3" position="-10 0 13" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1526" position="-17 0 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1527" position="10 1 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1071" position="21 3 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1072" position="21 4 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="QuadTile" id="1082" position="-11 0 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1086" position="12 0 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1087" position="12 0 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1088" position="12 0 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1090" position="14 0 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1091" position="14 0 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1096" position="13 0 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1098" position="13 0 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1099" position="14 0 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1109" position="22 3 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1110" position="22 4 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1111" position="22 5 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1112" position="21 4 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1113" position="21 5 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1114" position="22 5 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1115" position="22 4 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1116" position="22 3 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1117" position="23 3 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1126" position="23 3 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1127" position="23 5 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1129" position="23 4 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1130" position="23 4 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1131" position="23 5 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1146" position="25 1 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1155" position="24 2 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1164" position="26 1 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1165" position="24 3 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1166" position="24 4 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1168" position="25 2 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1169" position="25 5 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1171" position="25 4 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1172" position="25 3 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1173" position="26 2 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1176" position="26 3 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1177" position="24 3 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1178" position="24 4 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1179" position="24 5 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1180" position="25 3 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1181" position="25 4 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1182" position="25 5 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1183" position="24 2 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1184" position="24 1 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1185" position="25 1 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1186" position="26 1 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1187" position="25 2 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1188" position="26 2 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1190" position="26 4 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1191" position="26 5 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1192" position="26 3 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1207" position="27 2 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1208" position="27 3 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1209" position="27 4 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1214" position="19 0 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1215" position="19 0 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1216" position="19 0 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1217" position="19 0 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1218" position="19 0 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1219" position="19 0 14" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1220" position="19 0 13" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1222" position="20 0 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1223" position="20 0 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1224" position="20 0 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1225" position="20 0 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1226" position="20 0 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1227" position="20 0 14" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1228" position="20 0 13" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1230" position="21 0 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1231" position="21 0 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1232" position="21 0 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1233" position="21 0 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1234" position="21 0 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1235" position="21 0 14" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1236" position="21 0 13" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1238" position="22 0 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1239" position="22 0 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1240" position="22 0 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1241" position="22 0 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1242" position="22 0 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1243" position="22 0 14" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1244" position="22 0 13" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1246" position="23 0 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1247" position="23 0 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1249" position="23 0 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1250" position="23 0 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1251" position="23 0 14" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1252" position="23 0 13" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1254" position="24 0 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1255" position="24 0 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1256" position="24 0 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1257" position="24 0 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1258" position="24 0 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1259" position="24 0 14" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1260" position="24 0 13" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1262" position="18 0 14" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1263" position="18 0 13" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1264" position="17 0 13" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1274" position="24 1 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1275" position="23 1 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1276" position="22 1 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1277" position="21 1 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1278" position="20 1 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1279" position="19 1 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1280" position="18 1 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1281" position="17 1 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1282" position="25 0 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1287" position="25 0 14" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1288" position="25 0 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1289" position="25 0 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1290" position="25 0 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1291" position="25 0 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1528" position="25 0 13" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="19" position="17 0 20" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="20" position="17 0 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="21" position="18 0 20" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="22" position="18 0 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="23" position="19 0 20" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="24" position="19 0 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="25" position="20 0 20" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="26" position="20 0 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="27" position="21 0 20" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="28" position="21 0 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="29" position="22 0 20" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="30" position="22 0 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="31" position="23 0 20" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="32" position="23 0 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="33" position="24 0 20" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="34" position="24 0 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="41" position="-11 0 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="42" position="-10 0 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="43" position="11 0 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="44" position="10 0 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="BendTile" id="46" position="-10 0 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="BendTile" id="47" position="10 0 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="QuadTile" id="48" position="-11 0 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="QuadTile" id="49" position="-10 0 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="QuadTile" id="50" position="-10 0 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="QuadTile" id="51" position="10 0 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="QuadTile" id="52" position="11 0 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="QuadTile" id="53" position="10 0 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1" position="-10 0 14" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="2" position="10 0 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="13" position="10 0 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="14" position="11 0 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1300" position="13 0 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1301" position="23 0 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1302" position="24 1 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1303" position="24 1 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1304" position="24 1 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1305" position="25 1 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1307" position="25 1 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1308" position="26 1 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1309" position="26 1 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1310" position="26 1 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1312" position="26 1 13" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1313" position="26 1 14" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1314" position="26 1 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1315" position="26 1 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1316" position="26 1 20" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1325" position="27 2 13" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1326" position="27 2 14" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1327" position="27 2 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1328" position="27 2 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1329" position="27 2 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1330" position="27 2 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1331" position="27 2 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1332" position="27 3 13" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1333" position="27 3 14" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1334" position="27 3 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1335" position="27 3 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1336" position="27 3 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1337" position="27 3 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1338" position="27 3 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1339" position="27 2 20" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1340" position="27 3 20" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1341" position="25 0 20" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1344" position="21 5 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1345" position="19 5 20" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1346" position="19 5 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1347" position="19 5 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1348" position="20 5 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1349" position="21 5 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="LightTile" id="1350" position="22 5 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1351" position="16 4 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1352" position="14 5 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="LightTile" id="1353" position="14 4 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1354" position="27 4 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1355" position="27 5 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1356" position="27 6 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1357" position="26 6 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1358" position="25 6 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="LightTile" id="1359" position="25 5 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1360" position="17 1 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1361" position="18 1 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1362" position="19 1 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1364" position="21 6 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1365" position="21 7 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1367" position="21 7 13" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1368" position="21 7 14" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1369" position="21 7 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1370" position="21 7 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1371" position="21 7 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1372" position="20 7 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1373" position="19 7 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1374" position="18 7 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1376" position="17 7 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1377" position="16 7 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1378" position="14 6 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1379" position="14 7 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1380" position="14 7 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1381" position="15 7 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1382" position="26 6 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1383" position="26 7 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1384" position="25 7 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1385" position="24 7 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1386" position="24 7 20" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1387" position="24 7 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1388" position="24 7 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1389" position="23 7 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1390" position="22 7 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1391" position="21 7 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1392" position="21 7 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1393" position="21 7 20" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1394" position="21 7 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1395" position="21 6 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="VolumeTrigger" id="1400" position="14 1 13" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="VolumeTrigger" id="1401" position="14 1 14" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="VolumeTrigger" id="1402" position="14 1 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="VolumeTrigger" id="1403" position="14 1 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="VolumeTrigger" id="1404" position="14 1 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="VolumeTrigger" id="1405" position="14 1 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="VolumeTrigger" id="1406" position="14 1 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="VolumeTrigger" id="1529" position="14 1 20" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1530" position="5 5 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1531" position="5 4 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1532" position="5 3 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1533" position="-4 0 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1534" position="-4 1 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1535" position="-4 2 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1536" position="-5 0 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1537" position="-5 1 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1538" position="-5 2 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1539" position="-6 0 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1540" position="-6 1 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1541" position="-6 2 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1543" position="-7 1 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1544" position="-7 2 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1545" position="-8 0 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1546" position="-8 1 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1547" position="-8 2 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1548" position="-3 1 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1549" position="-4 3 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1550" position="-3 3 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1551" position="-3 2 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1553" position="-2 2 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1555" position="-3 2 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1556" position="-3 3 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1557" position="-2 3 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1561" position="-1 1 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1562" position="-1 1 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1568" position="-3 1 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1572" position="-2 1 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1582" position="0 2 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1583" position="0 1 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1584" position="0 2 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1585" position="0 1 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1588" position="0 3 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1615" position="0 3 11" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1616" position="-1 3 11" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1618" position="4 3 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1619" position="4 4 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1620" position="5 4 11" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1621" position="5 3 11" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1622" position="5 2 11" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1623" position="4 4 11" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1624" position="4 3 11" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1625" position="4 2 11" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1626" position="3 4 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1627" position="3 3 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1628" position="3 2 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1629" position="3 1 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1630" position="2 4 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1631" position="2 3 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1632" position="2 2 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1633" position="2 1 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1634" position="1 4 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1635" position="1 3 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1636" position="1 2 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1637" position="1 1 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1638" position="0 4 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1639" position="0 3 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1640" position="0 2 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1641" position="0 1 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1642" position="-1 4 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1643" position="-1 3 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1644" position="-1 2 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1645" position="-1 1 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1646" position="-2 4 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1647" position="-2 3 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1648" position="-2 2 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1649" position="-2 1 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1650" position="-3 4 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1651" position="-3 3 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1652" position="-3 2 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1653" position="-3 1 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1654" position="-4 4 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1655" position="-4 3 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1656" position="-4 2 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1657" position="-4 1 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1658" position="-5 4 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1659" position="-5 3 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1660" position="-5 2 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1661" position="-5 1 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1662" position="-6 4 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1663" position="-6 3 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1664" position="-6 2 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1665" position="-6 1 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1666" position="-7 4 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1667" position="-7 3 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1668" position="-7 2 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1669" position="-7 1 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1670" position="-8 4 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1671" position="-8 3 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1672" position="6 2 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1673" position="6 1 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1674" position="5 2 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1675" position="5 1 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1676" position="4 2 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1677" position="4 1 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1679" position="1 2 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1687" position="3 2 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1688" position="2 2 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1692" position="1 3 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1693" position="1 4 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1697" position="2 3 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1698" position="2 4 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1699" position="2 5 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1700" position="-2 2 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1701" position="-1 2 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1702" position="-10 1 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1703" position="-9 1 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1704" position="-9 2 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1705" position="-9 3 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1706" position="-8 1 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1707" position="-8 2 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1708" position="-8 3 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1709" position="-8 4 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1710" position="-7 1 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1711" position="-7 2 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1712" position="-7 3 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1713" position="-7 4 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1714" position="-6 1 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1715" position="-6 2 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1716" position="-6 3 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1717" position="-6 4 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1718" position="-5 1 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1719" position="-5 2 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1720" position="-5 3 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1721" position="-5 4 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1722" position="-4 1 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1723" position="-4 2 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1724" position="-4 3 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1725" position="-4 4 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1726" position="-3 4 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1727" position="-2 4 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1728" position="-1 3 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1729" position="-1 4 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1730" position="0 4 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1731" position="1 1 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1732" position="2 1 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1733" position="3 1 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1734" position="3 3 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1736" position="3 4 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1737" position="1 1 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1738" position="1 2 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1739" position="1 3 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1740" position="2 1 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1741" position="2 2 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1742" position="2 3 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1743" position="3 3 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1744" position="3 2 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1745" position="3 1 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1746" position="3 0 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1747" position="3 3 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1748" position="3 2 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1749" position="3 1 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1750" position="3 0 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1751" position="2 0 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1752" position="2 3 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1753" position="2 2 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1754" position="2 1 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1755" position="2 0 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1756" position="1 0 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1757" position="1 3 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1758" position="1 2 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1759" position="1 1 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1760" position="1 0 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1761" position="0 3 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1762" position="0 0 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1763" position="0 3 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1764" position="0 2 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1765" position="0 1 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1766" position="0 0 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1767" position="-1 3 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1768" position="-1 2 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1769" position="-1 0 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1770" position="-1 3 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1771" position="-1 2 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1772" position="-1 1 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1773" position="-1 0 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1774" position="-2 3 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1775" position="-2 1 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1776" position="-2 0 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1777" position="-2 3 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1778" position="-2 2 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1779" position="-2 1 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1780" position="-2 0 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1781" position="4 0 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1782" position="4 1 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1783" position="4 2 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1784" position="5 1 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1786" position="5 0 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1787" position="5 2 23" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1788" position="11 1 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1789" position="-2 5 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1794" position="1 5 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1795" position="1 5 13" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1796" position="1 5 14" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1799" position="0 5 14" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1801" position="0 5 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1802" position="0 5 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1803" position="0 5 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1804" position="0 5 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1805" position="0 5 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1806" position="0 5 20" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1807" position="0 5 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1808" position="-1 5 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1809" position="-6 4 13" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1815" position="-4 5 14" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1818" position="-4 5 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1820" position="-4 5 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1821" position="-4 6 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1822" position="-4 5 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1824" position="-4 5 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1825" position="-4 6 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1826" position="-4 6 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1827" position="-4 6 20" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1828" position="-4 5 20" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1832" position="-4 5 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1833" position="-4 5 15" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1834" position="-4 5 13" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1835" position="-4 5 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1836" position="-12 2 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1837" position="25 2 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1838" position="25 2 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1839" position="24 2 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1840" position="24 2 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1841" position="24 2 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1842" position="25 1 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1843" position="26 2 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1845" position="26 2 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1846" position="26 2 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="StartTile" id="1" position="25 2 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1" position="23 1 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="2" position="23 1 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="3" position="23 1 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="4" position="23 2 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="5" position="23 2 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="6" position="23 2 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="7" position="22 1 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="8" position="22 1 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="9" position="22 1 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="10" position="22 2 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="11" position="22 2 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="12" position="22 2 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1847" position="8 6 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1848" position="9 6 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1849" position="10 6 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1850" position="10 6 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1851" position="4 3 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1852" position="4 2 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1853" position="5 3 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1854" position="5 2 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1855" position="6 3 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1856" position="6 2 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1857" position="7 3 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1858" position="7 2 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1859" position="8 3 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1860" position="8 2 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1861" position="9 3 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1862" position="9 2 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1863" position="10 1 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1864" position="10 2 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1865" position="10 3 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1866" position="4 1 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1868" position="5 1 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1870" position="6 1 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1872" position="7 1 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1874" position="8 1 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1876" position="9 1 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1878" position="4 0 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1879" position="5 0 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1880" position="6 0 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1881" position="7 0 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1882" position="8 0 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1883" position="9 0 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1884" position="-3 0 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1885" position="-7 0 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1886" position="-11 2 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1887" position="-9 0 22" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1888" position="-11 0 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1889" position="-10 0 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1890" position="12 1 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1891" position="14 2 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1892" position="14 3 21" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="LightTile" id="1893" position="0 4 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="LightTile" id="1894" position="7 4 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="LightTile" id="1895" position="-4 4 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="LightTile" id="1896" position="-6 3 13" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="1" position="12 2 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="2" position="17 2 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="3" position="27 4 20" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="4" position="27 4 19" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="5" position="27 4 18" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="6" position="27 4 17" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="7" position="27 4 16" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="8" position="27 4 14" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="9" position="27 4 13" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+    <tile type="GreyTile" id="10" position="26 4 12" rotation="0" layer="1" requiresPower="False">
+      <events />
+    </tile>
+  </tiles>
+</level>
