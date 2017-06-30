@@ -6,6 +6,11 @@ Segmentation is based on "bending points" which are special voxels within the wo
 
 Bending points divide the world into segments, which always move together no matter how many bending operation is carried on. This implementation finds those region bounds and create meshes out of the voxels within those bounds.
 
+## Usage
+
+Main scene is under Assets/Scenes/ directory. Main Camera in the scene contains the loader component named FabricLevelLoader. Set the LevelDir field to the root folder of any of the example levels under Assets/Resources/Level.
+On Start() it generates both the segmented and the original version of the level for comparison.
+
 Some screenshots from unity editor:
 
 ![ss01](http://imgur.com/U3zQsEP "screenshot")
