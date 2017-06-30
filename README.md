@@ -13,10 +13,10 @@ On Start() it generates both the segmented and the original version of the level
 
 Some screenshots from unity editor:
 
-![ss01](http://imgur.com/U3zQsEP "screenshot")
+![ss01](http://i.imgur.com/U3zQsEPg.png "screenshot")
 
-![ss02](http://imgur.com/i3RtQB4 "screenshot")
+![ss02](http://i.imgur.com/i3RtQB4.png "screenshot")
 
-![ss03](http://imgur.com/2GcvDi8 "screenshot")
+![ss03](http://i.imgur.com/2GcvDi8g.png "screenshot")
 
-![ss04](http://imgur.com/lb7iRjq "screenshot")
+![ss04](http://i.imgur.com/lb7iRjqg.png "screenshot")
