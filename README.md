@@ -8,10 +8,10 @@ Bending points divide the world into segments, which always move together no mat
 
 Some screenshots from unity editor:
 
-![alt text](https://www.dropbox.com/s/3bdf453dusde8c8/Capture4.PNG?dl=0 "screenshot")
+![ss_01](http://imgur.com/U3zQsEP "screenshot")
 
-![alt text](https://www.dropbox.com/s/t2qsts88pxh05w8/Capture5.PNG?dl=0 "screenshot")
+![ss_02](http://imgur.com/i3RtQB4 "screenshot")
 
-![alt text](https://www.dropbox.com/s/8ridao464w0d5xl/Capture6.PNG?dl=0 "screenshot")
+![ss_03](http://imgur.com/2GcvDi8 "screenshot")
 
-![alt text](https://www.dropbox.com/s/fxzp63zsxv685kj/Capture2.PNG?dl=0 "screenshot")
+![ss_04](http://imgur.com/lb7iRjq "screenshot")
