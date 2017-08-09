@@ -5,6 +5,8 @@ using System.Collections;
 public class PProcessScript : MonoBehaviour {
  
 	public float intensity;
+    public float angleThreshold = 80, depthWeight = 300;
+    public int kernelRadius = 1;
 	private Material material;
     private Camera camera;
 
@@ -27,6 +29,9 @@ public class PProcessScript : MonoBehaviour {
 		//}
  
 		material.SetFloat("_bwBlend", intensity);
+		material.SetFloat("_angleThreshold", angleThreshold);
+		material.SetFloat("_depthWeight", depthWeight);
+        material.SetFloat("_kernelRadius", kernelRadius);
 		Graphics.Blit (source, destination, material);
 	}
 }
