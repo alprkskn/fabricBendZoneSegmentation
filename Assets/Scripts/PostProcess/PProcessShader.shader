@@ -3,7 +3,7 @@
 Shader "Hidden/BWDiffuse" {
 	Properties {
 		_MainTex ("Base (RGB)", 2D) = "white" {}
-		_bwBlend ("Black & White blend", Range (0, 1)) = 0
+		_EdgeColor ("EdgeHighlightColor", Color)  = (1,1,1,1)
 		_angleThreshold("Edge Threshold Angle", Float) = 80
 		_depthWeight("Weight of depth difference", Float) = 300
 		_kernelRadius("Radius for pixel lookup", Int) = 1
@@ -17,9 +17,10 @@ Shader "Hidden/BWDiffuse" {
 			#include "UnityCG.cginc"
  
 			uniform sampler2D _MainTex;
-			uniform float _bwBlend;
 			uniform float _angleThreshold, _depthWeight;
 			uniform int _kernelRadius;
+			uniform float4 _EdgeColor;
+
 
 			sampler2D _CameraDepthTexture;
 			sampler2D _CameraDepthNormalsTexture;
@@ -77,7 +78,9 @@ Shader "Hidden/BWDiffuse" {
 				GetMaxDeltas(_kernelRadius, i.scrPos.xy, normalDelta, depthDelta);
 				float delta = step(_angleThreshold, normalDelta) + depthDelta * _depthWeight;
 
-				float4 edgeColor = float4(delta, delta, delta , 1);
+				//clip(2 - delta);
+
+				float4 edgeColor = float4(_EdgeColor.rgb * clamp(delta, 0, 1) , 1);
 				return edgeColor;
 			}
 
