@@ -13,6 +13,10 @@ public class PProcessScript : MonoBehaviour
     private Material _gaussianBlurMaterial;
     private Material _blendMaterial;
 
+    public RenderTexture _rt;
+    public Shader DepthNormalsShader;
+    private Material DepthNormalsMaterial;
+
     #region EdgeDetection
     public float angleThreshold = 80, depthWeight = 300;
     [SerializeField, Range(0, 8)] private int _kernelRadius = 1;
@@ -58,6 +62,8 @@ public class PProcessScript : MonoBehaviour
             _kernelRadius = (int)x;
             _kernelText.text = _kernelRadius.ToString();
         });
+
+        DepthNormalsMaterial = new Material(DepthNormalsShader);
     }
 
     // Postprocess the image
@@ -68,6 +74,7 @@ public class PProcessScript : MonoBehaviour
         //	Graphics.Blit (source, destination);
         //	return;
         //}
+
         RenderTexture rt1 = RenderTexture.GetTemporary(source.width, source.height);
         RenderTexture rt2 = RenderTexture.GetTemporary(source.width, source.height);
 
@@ -80,6 +87,8 @@ public class PProcessScript : MonoBehaviour
 
         RenderTexture.ReleaseTemporary(rt1);
         RenderTexture.ReleaseTemporary(rt2);
+
+        Graphics.Blit(source, _rt, DepthNormalsMaterial);
     }
 
     void EdgeDetectionPass(RenderTexture source, RenderTexture destination)
