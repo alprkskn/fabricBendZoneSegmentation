@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.UI;
 
 [ExecuteInEditMode]
 public class PProcessScript : MonoBehaviour
@@ -14,7 +15,7 @@ public class PProcessScript : MonoBehaviour
 
     #region EdgeDetection
     public float angleThreshold = 80, depthWeight = 300;
-    public int kernelRadius = 1;
+    [SerializeField, Range(0, 8)] private int _kernelRadius = 1;
     [SerializeField] private Shader _edgeDetectShader;
     [SerializeField] private Shader _blendShader;
     [SerializeField] private Color _edgeColor;
@@ -26,7 +27,12 @@ public class PProcessScript : MonoBehaviour
     [SerializeField, Range(0, 8)] private int _iteration = 4;
     #endregion
 
-
+    #region UI Controllers
+    [SerializeField] private Slider _gaussSlider;
+    [SerializeField] private Slider _kernelSlider;
+    [SerializeField] private Text _kernelText;
+    [SerializeField] private Text _gaussText;
+    #endregion
 
     // Creates a private material used to the effect
     void Awake()
@@ -37,6 +43,21 @@ public class PProcessScript : MonoBehaviour
         _blendMaterial = new Material(_blendShader);
         _camera.depthTextureMode = DepthTextureMode.DepthNormals;
 
+        _gaussSlider.value = _iteration;
+        _gaussText.text = _iteration.ToString();
+        _gaussSlider.onValueChanged.AddListener((x) =>
+        {
+            _iteration = (int)x;
+            _gaussText.text = _iteration.ToString();
+        });
+
+        _kernelSlider.value = _kernelRadius;
+        _kernelText.text = _kernelRadius.ToString();
+        _kernelSlider.onValueChanged.AddListener((x) =>
+        {
+            _kernelRadius = (int)x;
+            _kernelText.text = _kernelRadius.ToString();
+        });
     }
 
     // Postprocess the image
@@ -66,7 +87,7 @@ public class PProcessScript : MonoBehaviour
         _edgeDetectMaterial.SetColor("_EdgeColor", _edgeColor);
         _edgeDetectMaterial.SetFloat("_angleThreshold", angleThreshold);
         _edgeDetectMaterial.SetFloat("_depthWeight", depthWeight);
-        _edgeDetectMaterial.SetFloat("_kernelRadius", kernelRadius);
+        _edgeDetectMaterial.SetFloat("_kernelRadius", _kernelRadius);
         Graphics.Blit(source, destination, _edgeDetectMaterial);
     }
 
