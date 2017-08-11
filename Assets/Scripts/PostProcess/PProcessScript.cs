@@ -20,6 +20,7 @@ public class PProcessScript : MonoBehaviour
     #region EdgeDetection
     public float angleThreshold = 80, depthWeight = 300;
     [SerializeField, Range(0, 8)] private int _kernelRadius = 1;
+    [SerializeField, Range(0.5f, 2)] private float _texelSizeDivider = 2;
     [SerializeField] private Shader _edgeDetectShader;
     [SerializeField] private Shader _blendShader;
     [SerializeField] private Color _edgeColor;
@@ -69,15 +70,9 @@ public class PProcessScript : MonoBehaviour
     // Postprocess the image
     void OnRenderImage(RenderTexture source, RenderTexture destination)
     {
-        //if (intensity == 0)
-        //{
-        //	Graphics.Blit (source, destination);
-        //	return;
-        //}
-
         RenderTexture rt1 = RenderTexture.GetTemporary(source.width, source.height);
-        RenderTexture rt2 = RenderTexture.GetTemporary(source.width / DepthNormalDownsampleCount
-            , source.height / DepthNormalDownsampleCount);
+        //RenderTexture rt2 = RenderTexture.GetTemporary(source.width / DepthNormalDownsampleCount
+        //    , source.height / DepthNormalDownsampleCount);
         
         //Graphics.Blit(source, rt2, DepthNormalsMaterial);
         //_edgeDetectMaterial.SetTexture("_DepthNormalTex", rt2);
@@ -88,10 +83,9 @@ public class PProcessScript : MonoBehaviour
 
         Graphics.Blit(source, destination, _blendMaterial);
         Graphics.Blit(rt1, destination, _blendMaterial);
-        //Graphics.Blit(rt1, destination);
 
         RenderTexture.ReleaseTemporary(rt1);
-        RenderTexture.ReleaseTemporary(rt2);
+        //RenderTexture.ReleaseTemporary(rt2);
 
     }
 
@@ -100,7 +94,8 @@ public class PProcessScript : MonoBehaviour
         _edgeDetectMaterial.SetColor("_EdgeColor", _edgeColor);
         _edgeDetectMaterial.SetFloat("_angleThreshold", angleThreshold);
         _edgeDetectMaterial.SetFloat("_depthWeight", depthWeight);
-        _edgeDetectMaterial.SetFloat("_kernelRadius", _kernelRadius);
+        _edgeDetectMaterial.SetInt("_kernelRadius", _kernelRadius);
+        _edgeDetectMaterial.SetFloat("_texelSizeDivider", _texelSizeDivider);
         Graphics.Blit(source, destination, _edgeDetectMaterial);
     }
 

@@ -8,6 +8,7 @@ Shader "Hidden/BWDiffuse" {
 		_EdgeColor ("EdgeHighlightColor", Color)  = (1,1,1,1)
 		_angleThreshold("Edge Threshold Angle", Float) = 80
 		_depthWeight("Weight of depth difference", Float) = 300
+		_texelSizeDivider("Factor to divide the depthNormals texture texel size (Affects line thickness)", Range(0.5, 2)) = 2
 		_kernelRadius("Radius for pixel lookup", Int) = 1
 	}
 	SubShader {
@@ -21,7 +22,7 @@ Shader "Hidden/BWDiffuse" {
 			uniform sampler2D _MainTex;
 			uniform sampler2D _DepthNormalTex;
 			uniform int _DownSample;
-			uniform float _angleThreshold, _depthWeight;
+			uniform float _angleThreshold, _depthWeight, _texelSizeDivider;
 			uniform int _kernelRadius;
 			uniform float4 _EdgeColor;
 
@@ -37,7 +38,7 @@ Shader "Hidden/BWDiffuse" {
 				float3 normalValue;
 				float depthValue;
 
-				float2 stepSize = _CameraDepthNormalsTexture_TexelSize;
+				float2 stepSize = _CameraDepthNormalsTexture_TexelSize / _texelSizeDivider;
 				DecodeDepthNormal(px_center, depthValue, normalValue);
 
 				normalDelta = depthDelta = 0;				
