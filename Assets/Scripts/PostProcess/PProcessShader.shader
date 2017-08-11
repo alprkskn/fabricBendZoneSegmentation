@@ -43,7 +43,8 @@ Shader "Hidden/BWDiffuse" {
 
 				normalDelta = depthDelta = 0;				
 				for(int i = -kernelRadius; i <= kernelRadius; i++)
-					for(int j = -kernelRadius; j <= kernelRadius; j++)
+					for(int j = -(kernelRadius-abs(i)); j <= kernelRadius-abs(i); j++) // USES DIAGONAL KERNEL
+					//for(int j = -kernelRadius; j <= kernelRadius; j++)
 					{
 						float4 px_current = tex2D(_CameraDepthNormalsTexture, center + float2(i * stepSize.x, j * stepSize.y));
 						float3 normal_current;
