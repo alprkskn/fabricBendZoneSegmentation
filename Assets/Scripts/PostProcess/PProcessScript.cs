@@ -13,8 +13,8 @@ public class PProcessScript : MonoBehaviour
     private Material _gaussianBlurMaterial;
     private Material _blendMaterial;
 
-    public RenderTexture _rt;
     public Shader DepthNormalsShader;
+    public int DepthNormalDownsampleCount = 3;
     private Material DepthNormalsMaterial;
 
     #region EdgeDetection
@@ -76,7 +76,12 @@ public class PProcessScript : MonoBehaviour
         //}
 
         RenderTexture rt1 = RenderTexture.GetTemporary(source.width, source.height);
-        RenderTexture rt2 = RenderTexture.GetTemporary(source.width, source.height);
+        RenderTexture rt2 = RenderTexture.GetTemporary(source.width / DepthNormalDownsampleCount
+            , source.height / DepthNormalDownsampleCount);
+        
+        Graphics.Blit(source, rt2, DepthNormalsMaterial);
+        _edgeDetectMaterial.SetTexture("_DepthNormalTex", rt2);
+        _edgeDetectMaterial.SetInt("_DownSample", DepthNormalDownsampleCount);
 
         EdgeDetectionPass(source, rt1);
         BlurPass(rt1, destination);
@@ -88,7 +93,6 @@ public class PProcessScript : MonoBehaviour
         RenderTexture.ReleaseTemporary(rt1);
         RenderTexture.ReleaseTemporary(rt2);
 
-        Graphics.Blit(source, _rt, DepthNormalsMaterial);
     }
 
     void EdgeDetectionPass(RenderTexture source, RenderTexture destination)
