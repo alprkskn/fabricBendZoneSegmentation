@@ -79,9 +79,9 @@ public class PProcessScript : MonoBehaviour
         RenderTexture rt2 = RenderTexture.GetTemporary(source.width / DepthNormalDownsampleCount
             , source.height / DepthNormalDownsampleCount);
         
-        Graphics.Blit(source, rt2, DepthNormalsMaterial);
-        _edgeDetectMaterial.SetTexture("_DepthNormalTex", rt2);
-        _edgeDetectMaterial.SetInt("_DownSample", DepthNormalDownsampleCount);
+        //Graphics.Blit(source, rt2, DepthNormalsMaterial);
+        //_edgeDetectMaterial.SetTexture("_DepthNormalTex", rt2);
+        //_edgeDetectMaterial.SetInt("_DownSample", DepthNormalDownsampleCount);
 
         EdgeDetectionPass(source, rt1);
         BlurPass(rt1, destination);
